@@ -9,9 +9,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
-
-
+- [ ] Become a devops engineer 
+- [ ] Dare to chase your dream
+- [ ] Introduce myself to the world
 
 
 
